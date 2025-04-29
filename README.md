@@ -58,7 +58,7 @@ iris-recognition/
 🖼️ Sample Visualization
 
 ## 📸 Notes
-Use clear, front-facing eye images. (For demo purposes i have added 2 examples of iris images. Both are NON-IDENTICAL images of iris.)
+Use clear, front-facing eye images. (For demo purposes i have added 2 examples of iris images. Both are NON-IDENTICAL images of iris, they are named as eye1 and eye2.)
 
 If iris can't be detected, try higher quality or better-lit images.
 
