@@ -48,8 +48,6 @@ Gabor-enhanced Iris
 
 ## 📁 File Structure
 ```bash
-Copy
-Edit
 iris-recognition/
 │
 ├── iris_match.py         # Main script
